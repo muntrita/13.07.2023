@@ -1,0 +1,14 @@
+.cella {
+  border: solid 1px red;
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+  text-align: center;
+}
+.tabellone {
+  display: flex;
+  flex-wrap: wrap;
+}
+.numeroUscito {
+  background-color: yellow;
+}
